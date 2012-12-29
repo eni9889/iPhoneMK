@@ -100,7 +100,7 @@
 	self.strokeWidth = 2.0;
 	self.textColor = [UIColor whiteColor];
     self.hideWhenZero = NO;
-	
+	self.userInteractionEnabled = NO;
 	self.backgroundColor = [UIColor clearColor];
 }
 
